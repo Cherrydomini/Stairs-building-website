@@ -1,0 +1,36 @@
+header{
+	font-size: 14px;
+	font-family: impact;
+	background-color: black !important;
+	text-decoration: none;
+	color: white;
+}
+header .nav{
+	background-color: black !important;
+	text-decoration: none;
+	display: inline;
+}
+.nav li{
+	display: inline ;
+	padding-top: 2cm;
+	margin: 1.2em;
+}
+.nav ul{
+	padding-top: 1.12em;
+	padding-bottom: 1.12em;
+}
+body{
+	background-color: #EFC28B !important;
+}
+h1, h4{
+	font-family: 'Alegreya SC', serif !important;
+}
+.jumbotron {
+  display: flex;
+  background-image: url(collage.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #000000;
+  text-shadow: 0.25px 0.30px 0.25px #ffffff;
+}
